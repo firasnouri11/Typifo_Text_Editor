@@ -11,7 +11,7 @@ Typifo is a lightweight, smart online text editor that allows users to create an
 - **Export Options** - Save your work as **PDF** or **DOCX**.
 - **Auto-save Functionality** - Your progress is saved automatically every few seconds.
 
-## Upcoming Major Update 🚀
+## Upcoming Major Update 
 
 I am actively working on a **big update** that will introduce:
 
