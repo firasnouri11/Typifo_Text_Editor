@@ -1114,17 +1114,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
-
-
-
-setInterval(() => {
-    const content = document.querySelector('.content').innerHTML;
-    if (docId) {
-        localStorage.setItem(`document_${docId}`, JSON.stringify({ id: docId, content }));
-    }
-}, 5000); 
-
-
 </script>
+    
 </body>
 </html>
